@@ -1,0 +1,24 @@
+#about
+	box-sizing: border-box
+	padding: 50px 0px
+
+	p
+		width: 700px
+		margin: 20px auto
+		line-height: 35px
+		font:
+			size: 22px
+			weight: 300
+
+		@media screen and (min-width: 320px) and (max-width: 460px)	
+			width: 75%
+			font:
+				size: 18px
+
+	a
+		text-decoration: none
+		color: $gray
+		border-bottom: 1px dotted $gray
+
+		&:hover
+			color: $red

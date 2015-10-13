@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Site Colophon"
+date:   2014-09-01
+author: "Edward Nguyen"
+tags: "site, colophon"
+cover: "'/assets/img/posts/work.jpeg'"
+---
+
+<p>This website is built with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, a static website/blog generator. I used HTML5, CSS3, <a href="http://sass-lang.com/" target="_blank">Sass</a>, jQuery, and am hosting free at <a href="https://pages.github.com/" target="_blank">Github Pages</a>. All development was done on a Macbook Air with Sublime Text 2. The hero image is from <a href="https://unsplash.com/" target="_blank">Unsplash</a>, a free high-quality photo library I highly recommend. This site <i>is</i> mobile friendly.</p>
+
+-Edward

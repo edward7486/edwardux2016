@@ -1,0 +1,41 @@
+.blog
+	width: 50%
+	margin: 50px auto
+
+	@media screen and (min-width: 320px) and (max-width: 460px)	
+		width: 75%
+
+	.blog-block
+		margin-bottom: 50px
+
+		.blog-title
+			color: $black
+			font:
+				size: 1.8em
+				weight: 500
+
+			@media screen and (min-width: 320px) and (max-width: 460px)	
+				font:
+					size: 1.5em	
+
+			a
+				text-decoration: none
+				color: $black
+
+		.blog-date
+			color: $gray
+			font:
+				weight: 300
+
+		.blog-excerpt
+			line-height: 22pt
+			font:
+				weight: 300
+
+			.read-more
+				margin-top: 10px
+				display: block
+
+				a
+					text-decoration: none
+					color: $red
