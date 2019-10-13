@@ -1,5 +1,9 @@
-name: Edward's WIP
+name: Edward Nguyen's UX Design Portfolio
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: pretty
+
+sass:
+  sass_dir: assets/css
+  style: nested
